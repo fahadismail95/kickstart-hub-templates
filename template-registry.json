@@ -1,0 +1,26 @@
+{
+	"version": "1.0.0",
+	"lastUpdated": "2025-08-12T10:00:00Z",
+	"templates": {
+		"react-vite": {
+			"name": "React + Vite",
+			"description": "Modern React with Vite bundler",
+			"icon": "⚛️",
+			"tags": ["javascript", "frontend", "spa"],
+			"scopes": ["minimal", "standard", "enterprise"],
+			"category": "Frontend Frameworks",
+			"version": "1.2.0",
+			"lastUpdated": "2025-08-10T15:30:00Z"
+		},
+		"express-nodejs": {
+			"name": "Express.js (Node.js)",
+			"description": "Fast, unopinionated web framework for Node.js",
+			"icon": "🟢",
+			"tags": ["javascript", "backend", "api", "microservice"],
+			"scopes": ["minimal", "standard", "enterprise"],
+			"category": "Backend Frameworks",
+			"version": "1.1.0",
+			"lastUpdated": "2025-08-08T12:15:00Z"
+		}
+	}
+}
