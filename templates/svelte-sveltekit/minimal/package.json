@@ -1,0 +1,14 @@
+{
+	"name": "svelte-sveltekit-minimal",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"preview": "svelte-kit preview"
+	},
+	"dependencies": {
+		"@sveltejs/kit": "^1.0.0",
+		"svelte": "^3.0.0"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"name": "svelte-sveltekit-enterprise",
+	"version": "1.0.0",
+	"dependencies": {
+		"@sveltejs/kit": "^1.0.0",
+		"svelte": "^4.0.0"
+	}
+}

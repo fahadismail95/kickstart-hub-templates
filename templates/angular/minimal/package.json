@@ -1,0 +1,14 @@
+{
+	"name": "angular-minimal",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "ng serve"
+	},
+	"dependencies": {
+		"@angular/core": "^16.0.0",
+		"@angular/cli": "^16.0.0",
+		"rxjs": "^7.0.0",
+		"zone.js": "^0.13.0"
+	}
+}

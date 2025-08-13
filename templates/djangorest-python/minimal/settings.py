@@ -1,0 +1,3 @@
+SECRET_KEY = 'minimal'
+INSTALLED_APPS = []
+ROOT_URLCONF = 'app'

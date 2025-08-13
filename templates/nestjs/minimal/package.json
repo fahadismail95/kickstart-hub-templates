@@ -1,0 +1,11 @@
+{
+	"name": "nestjs-minimal",
+	"version": "1.0.0",
+	"main": "main.ts",
+	"dependencies": {
+		"@nestjs/core": "^9.0.0",
+		"@nestjs/common": "^9.0.0",
+		"reflect-metadata": "^0.1.13",
+		"rxjs": "^7.0.0"
+	}
+}

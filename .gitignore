@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Ruby
+*.gem
+.bundle/
+
+# PHP
+vendor/
+
+# Go
+bin/
+
+# Kotlin
+out/
+
+# General
+.DS_Store
+.idea/
+.vscode/

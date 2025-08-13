@@ -1,0 +1,17 @@
+{
+	"name": "solidjs-minimal",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"solid-js": "^1.0.0"
+	},
+	"devDependencies": {
+		"vite": "^4.0.0",
+		"@solidjs/vite-plugin-solid": "^2.0.0"
+	}
+}

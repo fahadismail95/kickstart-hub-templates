@@ -1,0 +1,9 @@
+---
+import Layout from '../components/Layout.astro';
+import { fetchData } from '../services/api.js';
+const data = await fetchData();
+---
+<Layout>
+  <h1>Enterprise Astro Home</h1>
+  <pre>{JSON.stringify(data, null, 2)}</pre>
+</Layout>
