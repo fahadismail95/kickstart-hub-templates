@@ -13,6 +13,6 @@ spec:
         app: minimal-app
     spec:
       containers:
-      - name: minimal-container
-        image: busybox
-        command: ["echo", "Hello World from Kubernetes Minimal!"]
+        - name: minimal-container
+          image: busybox
+          command: ['echo', 'Hello World from Kubernetes Minimal!']
