@@ -1,0 +1,15 @@
+{
+	"name": "qwik-enterprise",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "qwik dev",
+		"build": "qwik build",
+		"preview": "qwik preview"
+	},
+	"dependencies": {
+		"@builder.io/qwik": "^1.0.0",
+		"@builder.io/qwik-city": "^1.0.0",
+		"typescript": "^5.0.0"
+	}
+}

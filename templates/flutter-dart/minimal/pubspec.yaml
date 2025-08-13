@@ -1,0 +1,8 @@
+name: flutter_minimal
+version: 1.0.0
+description: Minimal Flutter Hello World
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter

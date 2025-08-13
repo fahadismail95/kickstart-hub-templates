@@ -1,0 +1,12 @@
+{
+	"name": "koa-enterprise",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "node src/server.js"
+	},
+	"dependencies": {
+		"koa": "^2.0.0",
+		"koa-router": "^10.0.0"
+	}
+}

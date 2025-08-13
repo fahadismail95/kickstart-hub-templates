@@ -1,0 +1,11 @@
+{
+	"name": "hapi-minimal",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "node index.js"
+	},
+	"dependencies": {
+		"@hapi/hapi": "^21.0.0"
+	}
+}

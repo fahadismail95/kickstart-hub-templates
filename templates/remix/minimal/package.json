@@ -1,0 +1,16 @@
+{
+	"name": "remix-minimal",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "remix dev",
+		"build": "remix build",
+		"start": "remix-serve build"
+	},
+	"dependencies": {
+		"@remix-run/node": "^2.0.0",
+		"@remix-run/express": "^2.0.0",
+		"react": "^18.0.0",
+		"react-dom": "^18.0.0"
+	}
+}

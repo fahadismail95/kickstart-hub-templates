@@ -1,0 +1,11 @@
+{
+	"name": "hapi-enterprise",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "node src/server.js"
+	},
+	"dependencies": {
+		"@hapi/hapi": "^21.0.0"
+	}
+}

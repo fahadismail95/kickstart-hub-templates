@@ -1,0 +1,11 @@
+{
+	"name": "fastify-minimal",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "node index.js"
+	},
+	"dependencies": {
+		"fastify": "^4.0.0"
+	}
+}
